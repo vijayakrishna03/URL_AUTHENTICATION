@@ -1,5 +1,6 @@
-![url_genie_logo](https://github.com/vijayakrishna03/URL_AUTHENTICATION/assets/162059453/81a16ba3-f52d-477e-bb93-784c761d901d)
-
+<p align="center">
+  ![url_genie_logo]    (https://github.com/vijayakrishna03/URL_AUTHENTICATION/assets/162059453/81a16ba3-f52d-477e-bb93-784c761d901d)
+</p>
 # URL_AUTHENTICATION
 URL Authentication Model Neural Network Optimized by Genetic Algorithms
 
