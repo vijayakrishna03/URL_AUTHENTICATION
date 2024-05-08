@@ -3,7 +3,7 @@ URL Authentication Model Neural Network Optimized by Genetic Algorithms
 
 Its a web application implementing a Multilayer Perceptron Neural Network optimized using genetic algorithms. Detect whether a domain name or URL is malicious by inputting a URL.
 
-#Previews
+# Previews
 ![Screenshot 2024-04-27 213143](https://github.com/vijayakrishna03/URL_AUTHENTICATION/assets/162059453/ec8d2cde-79a6-434a-900a-1165a9c512ee)
 
 
@@ -35,7 +35,7 @@ The model contains two files
 8. Validate the model's outcomes using 10 examples.
 9. Save the model as a .h5 file output.
 
-#Usage
+# Usage
 To build the source , you will need Python3 and pip installed on your system
 
 cd url_auth
