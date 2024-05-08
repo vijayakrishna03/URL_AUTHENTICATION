@@ -37,9 +37,9 @@ The model contains two files
 
 # Usage
 To build the source , you will need Python3 and pip installed on your system
-
+```
 cd url_auth
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 Visit localhost:8501 to see the web application
