@@ -1,7 +1,6 @@
 <p align="center">
   <img width="460" height="300" 
-  src="https://github.com/vijayakrishna03/URL_AUTHENTICATION/assets/162059453/81a16ba3-f52d-    
-  477e-bb93-784c761d901d">
+  src="https://github.com/vijayakrishna03/URL_AUTHENTICATION/assets/162059453/81a16ba3-f52d-477e-bb93-784c761d901d">
 </p>
 
 # URL_AUTHENTICATION
